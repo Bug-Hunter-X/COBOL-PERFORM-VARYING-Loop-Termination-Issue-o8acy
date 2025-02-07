@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating a potential issue with the PERFORM VARYING loop's termination condition. The bug involves an unexpected modification of the loop counter variable, which could prevent the loop from completing as intended. The solution provides a more robust approach to ensure correct loop termination.
